@@ -27,9 +27,7 @@ Instituto Federal de Educação, Ciência e Tecnologia de PE - Gestão da Tecnol
 * CSS (Design Responsivo).
   * SASS
  
-
-* React.JS
-* Node.JS
+ * React.JS
   
 
 ### UI Kits
